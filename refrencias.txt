@@ -1,0 +1,35 @@
+--[[
+
+"bottom"
+callRemote
+close 
+closeAll 
+getMethodsRemote 
+getNameLocal
+getNamesRemote
+getTypeRemote
+hasTypeRemote
+isOpen
+IsPresentRemote
+isWirless
+open
+transmit
+
+"Create_SequencedGearshift_1"
+- isRunning
+- move
+- rotate
+
+"sophisticatedstorage:chest_0"
+- getItemDetail
+- getItemLimit
+- list
+- pullItems 
+- pushItems 
+- size 
+"redstone_relay_0"
+"right"
+]]
+
+local Create_SequencedGearshift_1
+local relay_package = redstone_relay_0
